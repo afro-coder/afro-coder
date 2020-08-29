@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2> Hi, I'm Leon!</h2>
+ <img align="right" src="https://cdn.datingnode.com/file/crop/_7986b__1032823/_250x250__1448471509.jpg" width="120">
 
-<!--
-**afro-coder/afro-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BSC graduate and currently working as a Senior Web Solutions Specialist.<br>
+I am also a curious and well-focused system admin.<br>
 
-Here are some ideas to get you started:
+Besides coding, I like playing games such as Portal 2 or playing the ukulele :guitar:.
+
+- :man_technologist: Code: Python, PHP, Bash, Golang.
 
 - 🔭 I’m currently working on ...
+  Nothing special, learning how to setup various services such as Ansible, puppet.
 - 🌱 I’m currently learning ...
+  Golang
 - 👯 I’m looking to collaborate on ...
+  Python projects, or system administration tasks.
 - 🤔 I’m looking for help with ...
+  System Administration and how to go about becoming one
 - 💬 Ask me about ...
+  Anything
 - 📫 How to reach me: ...
+  Feel free to drop a mail at leon@leonnunes.dev
 - 😄 Pronouns: ...
+  He/Him
 - ⚡ Fun fact: ...
--->
+  I once had a crazy idea to build a Standee that could speak and thats how I got my first Raspberry Pi.
