@@ -1,5 +1,5 @@
 <h2> Hi, I'm Leon!</h2>
- <img align="right" src="https://doc-0o-5o-docs.googleusercontent.com/docs/securesc/cu6ttvpvs45aa9i2hle7t679ni1bcutq/spahc8g0p21vgv431he7eu6q95nep23u/1599375075000/00775090347545041885/00775090347545041885/1hFj-byOWLfMKOYbzll1xO5nZ2mHFihP_?e=view&authuser=0&nonce=hna1gspt1pq64&user=00775090347545041885&hash=qp7jfnuu9q3i88kq2uh895g7tfdkd0bf" width="200">
+ <img align="right" src="https://leonn98342.s3.amazonaws.com/leon1.png" width="300">
 
 I am a BSC graduate and currently working as a Senior Web Solutions Specialist.<br>
 I am also a curious and well-focused system admin.<br>
