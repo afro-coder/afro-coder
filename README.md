@@ -1,10 +1,9 @@
 <h2> Hi, I'm Leon!</h2>
  <img align="right" src="https://leonn98342.s3.amazonaws.com/leon1.png" width="300">
 
-I am a BSC graduate and currently working as a Senior Web Solutions Specialist.<br>
-I am also a curious and well-focused system admin.<br>
+I'm always found at my workstation either hacking some problem or automating some script.
 
-Besides coding, I like playing games such as Portal 2 or playing the ukulele :guitar:.
+Besides programming and sysadmin stuff, I like playing games such as Portal 2, Valheim or playing the ukulele :guitar:.
 
 - :man_technologist: Code: Python, PHP, Bash, Golang.
 
