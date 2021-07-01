@@ -1,5 +1,5 @@
 <h2> Hi, I'm Leon!</h2>
- <img align="right" src="https://leonn98342.s3.amazonaws.com/leon1.png" width="300">
+ <!--<img align="right" src="https://leonn98342.s3.amazonaws.com/leon1.png" width="300">-->
 
 I'm always found at my workstation either hacking some problem or automating some script.
 
