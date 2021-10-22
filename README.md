@@ -1,25 +1,23 @@
 <h2> Hi, I'm Leon!</h2>
  <!--<img align="right" src="https://leonn98342.s3.amazonaws.com/leon1.png" width="300">-->
 
-I'm always found at my workstation either hacking some problem or automating some script.
-
-Besides programming and sysadmin stuff, I like playing games such as Portal 2, Valheim or playing the ukulele :guitar:.
+I'm an aspiring DevOps engineer.
+Besides programming and sysadmin stuff, I like playing games such as Portal 2, Valheim or Genshin.
 
 - :man_technologist: Code: Python, PHP, Bash, Golang.
+- :man_technologist: DevOps: Ansible, Terraform, Cloudflare, AWS, Podman, Docker.
 
 - 🔭 I’m currently working on ...
-  Nothing special, learning how to setup various services such as Ansible, puppet.
+  Learning how to setup various services such as Ansible, puppet.
 - 🌱 I’m currently learning ...
   Golang
 - 👯 I’m looking to collaborate on ...
-  Python projects, or system administration tasks.
+  Python projects, or system administration repo's
 - 🤔 I’m looking for help with ...
-  System Administration and how to go about becoming one
+  DevOps and Cloud
 - 💬 Ask me about ...
-  Anything
+  Containers, Cloudflare, Linux Administration.
 - 📫 How to reach me: ...
   Feel free to drop a mail at leon@leonnunes.dev
 - 😄 Pronouns: ...
   He/Him
-- ⚡ Fun fact: ...
-  I once had a crazy idea to build a Standee that could speak and thats how I got my first Raspberry Pi.
