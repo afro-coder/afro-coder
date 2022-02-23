@@ -4,20 +4,19 @@
 I'm an aspiring DevOps engineer.
 Besides programming and sysadmin stuff, I like playing games such as Portal 2, Valheim or Genshin.
 
-- :man_technologist: Code: Python, PHP, Bash, Golang.
+- :man_technologist: Code: Python, Bash, Golang.
 - :man_technologist: DevOps: Ansible, Terraform, Cloudflare, AWS, Podman, Docker.
 
+- 😄 Pronouns: ...
+  He/Him
+
 - 🔭 I’m currently working on ...
-  Learning how to setup various services such as Ansible, puppet.
+  AWS and DevOps tools
 - 🌱 I’m currently learning ...
   Golang
 - 👯 I’m looking to collaborate on ...
-  Python projects, or system administration repo's
-- 🤔 I’m looking for help with ...
-  DevOps and Cloud
+  Python/DevOps/Golang projects
 - 💬 Ask me about ...
   Containers, Cloudflare, Linux Administration.
 - 📫 How to reach me: ...
   Feel free to drop a mail at leon@leonnunes.dev
-- 😄 Pronouns: ...
-  He/Him
