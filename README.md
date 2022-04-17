@@ -20,3 +20,12 @@ Besides programming and sysadmin stuff, I like playing games such as Portal 2, V
   Containers, Cloudflare, Linux Administration.
 - 📫 How to reach me: ...
   Feel free to drop a mail at leon@leonnunes.dev
+
+###Linux Commands
+
+#### lshw
+To find hardware info such as battery information etc.
+#### lspci
+To find PCI device information
+#### inxi
+Command line system information script for console and IRC
