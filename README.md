@@ -20,7 +20,7 @@ Besides programming and sysadmin stuff, I like playing games such as Portal 2, V
   Containers, Cloudflare, Linux Administration.
 - 📫 How to reach me: ...
   Feel free to drop a mail at leon@leonnunes.dev
-- Blog at <a href="dev.to/afrocoder">Dev.to</a>
+- Blog at <a href="https://dev.to/afrocoder">Dev.to</a>
 
 <h3>Linux Commands</h3>
 
