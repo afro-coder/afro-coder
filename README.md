@@ -23,6 +23,6 @@ Besides programming and sysadmin stuff, I like playing games such as Portal 2, V
 
 <h3>Linux Commands</h3>
 
-<b>lshw</b> is a command to find hardware info such as battery information etc.
-<b>lspci</b>  will also provide device information
-<b>inxi</b> Command line system information script for console and IRC
+<b>lshw</b> is a command to find hardware info such as battery information etc.</br>
+<b>lspci</b>  will also provide device information</br>
+<b>inxi</b> Command line system information script for console and IRC</br>
