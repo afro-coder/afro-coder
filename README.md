@@ -21,11 +21,8 @@ Besides programming and sysadmin stuff, I like playing games such as Portal 2, V
 - 📫 How to reach me: ...
   Feel free to drop a mail at leon@leonnunes.dev
 
-###Linux Commands
+<h3>Linux Commands</h3>
 
-#### lshw
-To find hardware info such as battery information etc.
-#### lspci
-To find PCI device information
-#### inxi
-Command line system information script for console and IRC
+<b>lshw</b> is a command to find hardware info such as battery information etc.
+<b>lspci</b>  will also provide device information
+<b>inxi</b> Command line system information script for console and IRC
