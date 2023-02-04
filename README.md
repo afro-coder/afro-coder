@@ -11,19 +11,13 @@ Besides programming and sysadmin stuff, I like playing games such as Portal 2, V
   He/Him
 
 - 🔭 I’m currently working on ...
-  AWS and DevOps tools
+  K8s
 - 🌱 I’m currently learning ...
-  Golang
+  Golang/Rust
 - 👯 I’m looking to collaborate on ...
-  Python/DevOps/Golang projects
+  Python/DevOps/Golang/Linux projects
 - 💬 Ask me about ...
   Containers, Cloudflare, Linux Administration.
 - 📫 How to reach me: ...
   Feel free to drop a mail at leon@leonnunes.dev
-- Blog at <a href="https://dev.to/afrocoder">Dev.to</a>
-
-<h3>Linux Commands</h3>
-
-<b>lshw</b> is a command to find hardware info such as battery information etc.</br>
-<b>lspci</b>  will also provide device information</br>
-<b>inxi</b> Command line system information script for console and IRC</br>
+- Blog at <a href="https://dev.to/mediocreDevops">Dev.to</a>
