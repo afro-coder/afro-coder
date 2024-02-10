@@ -1,7 +1,7 @@
 <h2> Hi, I'm Leon!</h2>
  <!--<img align="right" src="https://leonn98342.s3.amazonaws.com/leon1.png" width="300">-->
 
-Technical Support engineer [@solo.io](github.com/solo-io/)
+Customer Success engineer [@solo.io](github.com/solo-io/)
 
 Part-time gamer: Elden Ring, Genshin
 
