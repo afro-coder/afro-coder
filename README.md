@@ -25,5 +25,5 @@ Part-time gamer: Elden Ring, Genshin
 - 💬 Ask me about ...
   Containers, Cloudflare, Linux Administration.
 - 📫 How to reach me: ...
-  Feel free to drop a mail at leon@leonnunes.dev
+  
 - Blog at <a href="https://dev.to/mediocreDevops">Dev.to</a>
