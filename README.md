@@ -1,7 +1,7 @@
 <h2> Hi, I'm Leon!</h2>
  <!--<img align="right" src="https://leonn98342.s3.amazonaws.com/leon1.png" width="300">-->
 
-Customer Success engineer [@solo.io](github.com/solo-io/)
+Exploring Opensource projects and finding solutions[@solo.io](github.com/solo-io/)
 
 Part-time gamer: Elden Ring, Genshin
 
@@ -12,28 +12,39 @@ Part-time gamer: Elden Ring, Genshin
   He/Him
 
 - 🔭 I’m currently working on ...
-   - Raspberry Pi's/ Arduinos
-   - Arm/Risc-V
    - K8s/API Gateways
+   - AI Agents
    - Istio Service Mesh
-- 🌱 I’m currently learning ...
-   - Golang
-   - Rust
-   - C/C++
 - 👯 I’m looking to collaborate on ...
   Anything Tech Related
 - 💬 Ask me about ...
   Containers, Cloudflare, Linux Administration.
 - 📫 How to reach me: ...
-  
-- Blog at <a href="https://dev.to/mediocreDevops">Dev.to</a>
 
-Timeline 
+# Talks/Articles
 
-# 2025
-# 2024
-# 2023
-# 2022
+Blog at [MediocreDevops on Dev.to](https://dev.to/mediocreDevops)
+
+### 2025
+[Introduction to Ambient Mesh Openinfra and Cloudnative Day Vietnam](https://www.youtube.com/watch?v=4WbT23MqRfM)
+
+### 2024
+[Mocking GraphQL with Microcks](https://www.youtube.com/watch?v=_Tfed1VJTHU&t=1006s)
+[Let's get Meshy with Istio Service Mesh](https://www.youtube.com/watch?v=m08uOizxoJM&t=1s&pp=ygUMIkxlb24gTnVuZXMi)
+
+### 2023
+[Sustainable Homelabs at DevOps India Summit 2023](https://www.youtube.com/watch?v=EIU_SbgKf0E)
+
+[TcpDumping your pods in K8s using Kubesniff and Wireshark at KCD Chennai 2023](https://www.youtube.com/watch?v=mhfPPavu2pM)
+
+[Tile up your life with i3wm and Tmux at Opensource Summit North America 2023](https://youtu.be/voz16gIlflQ?si=NjWVRV4EDwMbDg0o&t=14)
+
+[Introduction to Spin and Wasm at CNCF Thane](https://www.youtube.com/watch?v=aXi93Z-7H8Q)
+
+Supercharge GraphQL with Envoy at GraphQL bangkok
+### 2022
+[Terraform State Nightmare](https://dev.to/mediocredevops/terraform-state-nightmare-25b0)
+[Reducing Blast Radius in Terraform at Openinfra Vietnam](https://www.youtube.com/watch?v=aYRG_jvtn4o)
 
 # Badges
 <img src="https://images.credly.com/images/e5ca7d9b-affa-4449-8358-c4e401a74aa5/image.png" width=240 height=240></img>
